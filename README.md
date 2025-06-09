@@ -47,7 +47,7 @@ About Me
 
 I'm **Sanjana Ramgarhia**, a data enthusiast passionate about turning raw data into meaningful insights using Power BI, Python, and SQL.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/sanjana-ramgarhia-b95515257/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
